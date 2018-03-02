@@ -1,0 +1,49 @@
+body {
+	background-color: #F8F8F8;
+}
+header {
+	text-align: center;
+}
+
+.liners {
+	font-size: 20px;
+}
+
+.sheoran {
+	padding-left: 60px;
+}
+
+.khera {
+	padding-left: 60px;
+}
+
+.arya {
+	padding-left: 60px;
+}
+
+.munshi {
+	padding-left: 60px;
+}
+
+.members {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+ul {
+	font-style: italic;
+	color: gray;
+}
+
+blockquote {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+blockquote::before {
+	content: "“";
+}
+
+blockquote::after {
+  content: "”";
+}
