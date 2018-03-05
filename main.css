@@ -9,25 +9,11 @@ header {
 	font-size: 20px;
 }
 
-.sheoran {
-	padding-left: 60px;
-}
-
-.khera {
-	padding-left: 60px;
-}
-
-.arya {
-	padding-left: 60px;
-}
-
-.munshi {
-	padding-left: 60px;
-}
-
 .members {
+	padding-left: 60px;
 	padding-top: 40px;
 	padding-bottom: 40px;
+	text-align: center;
 }
 
 ul {
