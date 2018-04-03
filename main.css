@@ -36,6 +36,6 @@ blockquote::after {
 }
 
 nav {
-display: inline-block;
+display: inline;
 background-color: #223455;
 }
