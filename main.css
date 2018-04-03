@@ -34,3 +34,8 @@ blockquote::before {
 blockquote::after {
   content: "”";
 }
+
+nav {
+display: inline-block;
+background-color: #223455;
+}
