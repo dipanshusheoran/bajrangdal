@@ -35,11 +35,7 @@ blockquote::after {
   content: "”";
 }
 
-.nav {
-display: inline;
-background-color: red;
-}
-
 nav li {
 border: 1px solid white;
+display: inline;
 }
