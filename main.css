@@ -35,11 +35,11 @@ blockquote::after {
   content: "”";
 }
 
-nav {
+.nav {
 display: inline;
-background-color: #223455;
+background-color: red;
 }
 
-nav.li {
+nav li {
 border: 1px solid white;
 }
