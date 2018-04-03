@@ -36,7 +36,10 @@ blockquote::after {
 }
 
 nav {
-border: 1px solid white;
 display: inline;
 background-color: #223455;
+}
+
+nav.li {
+border: 1px solid white;
 }
